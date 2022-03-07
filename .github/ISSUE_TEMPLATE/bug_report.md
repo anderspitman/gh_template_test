@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Please report bugs at https://forum.indiebits.io/c/boringproxy/9
+about: Please report bugs at [https://forum.indiebits.io/c/boringproxy/9](https://forum.indiebits.io/c/boringproxy/9)
 title: ''
 labels: ''
 assignees: ''
