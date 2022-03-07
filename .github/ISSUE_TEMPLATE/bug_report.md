@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Please report bugs at https://forum.indiebits.io/c/boringproxy/9
 title: ''
 labels: ''
 assignees: ''
